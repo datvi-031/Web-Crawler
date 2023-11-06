@@ -2,7 +2,7 @@
 
 ## Follow the below steps inorder to get started.<br><br>
 
-Download the Zip Folder provided. And unzip the folder.
+Download the Zip Folder provided. And unzip the folder or Clone the repository
 ```
 unzip path/to/archive.zip -d /path/to/destination
 ```
@@ -10,11 +10,6 @@ unzip path/to/archive.zip -d /path/to/destination
 Navigate to the project path
 ```
 cd path/to/destination/project-one/
-```
-
-Activate Python virtual environment
-```
-source ./myenv/bin/activate
 ```
 
 Download the project dependencies into virtual environment
