@@ -1,5 +1,3 @@
-# Project One  - Selenium scrapping
-
 ## Follow the below steps inorder to get started.<br><br>
 
 Download the Zip Folder provided. And unzip the folder or Clone the repository
